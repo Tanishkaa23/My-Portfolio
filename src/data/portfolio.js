@@ -122,7 +122,7 @@ export const experience = [
 ];
 
 export const resume = {
-  url: "/public/Tanishka_Gupta.pdf",
+  url: "/Tanishka_Gupta.pdf",
   label: "Resume",
 };
 
